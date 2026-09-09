@@ -9,20 +9,6 @@ A new Flutter project.
   <img src="screenshots/result.png" width="300">
 </p>
 
-## ✨ Features
-
-- Gender selection
-- Height adjustment
-- Weight and age selection
-- BMI calculation
-- BMI result classification
-- Recalculate BMI
-
-## 🛠️ Technologies
-
-- Flutter
-- Dart
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
