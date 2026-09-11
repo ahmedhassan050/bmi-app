@@ -6,7 +6,7 @@ A new Flutter project.
 
 <p align="center">
   <img src="https://github.com/ahmedhassan050/bmi-app/blob/main/bmi%20page.png.png" width="300">
-  <img src="screenshots/result.png" width="300">
+  <img src="https://github.com/ahmedhassan050/bmi-app/blob/main/resalt.png.png" width="300">
 </p>
 
 ## Getting Started
