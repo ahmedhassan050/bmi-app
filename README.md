@@ -5,7 +5,7 @@ A new Flutter project.
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="300">
+  <img src="https://github.com/ahmedhassan050/bmi-app/blob/main/bmi%20page.png.png" width="300">
   <img src="screenshots/result.png" width="300">
 </p>
 
